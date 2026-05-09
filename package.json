@@ -1,13 +1,13 @@
 {
-  "name": "mrslauncher",
-  "version": "3.0.9",
-  "productName": "MRS Launcher",
+  "name": "happtycoonlauncher",
+  "version": "1.0.0",
+  "productName": "Happy Tycoon Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu)",
+  "author": "Rodinia",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/peunsu/MRSLauncher",
+  "homepage": "https://github.com/Rodin1a/HappyTycoonLauncher",
   "bugs": {
-    "url": "https://github.com/peunsu/MRSLauncher/issues"
+    "url": "https://github.com/Rodin1a/HappyTycoonLauncher"
   },
   "private": true,
   "main": "index.js",
